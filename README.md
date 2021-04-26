@@ -15,6 +15,7 @@ npm run serve
 ```
 npm run build
 ```
+See demo here - https://thepokedexapp.firebaseapp.com/
 
 Poké API - https://pokeapi.co/
 
