@@ -1,3 +1,4 @@
+
 # pokedex
 
 ## Project setup
@@ -20,6 +21,6 @@ Poké API - https://pokeapi.co/
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-
+![pokedex-screenshot](https://user-images.githubusercontent.com/34679447/116126524-5f815d80-a6e4-11eb-9c39-04ac1571cfb6.png)
 
 
