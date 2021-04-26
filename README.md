@@ -1,2 +1,2 @@
 # pokedex-vue3
-Pokédex using Vuejs3 ans Poké api
+Pokédex using Vuejs3 and Poké api
